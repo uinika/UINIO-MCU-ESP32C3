@@ -7249,7 +7249,7 @@
   (gr_text "SPICS0" (at 164.49 118.47 30) (layer "F.SilkS") (tstamp c40856b5-4a29-4618-b389-fd9de3b349e3)
     (effects (font (size 0.6 0.6) (thickness 0.1)))
   )
-  (gr_text "ESP32-C3" (at 189.25 112.33 90) (layer "F.SilkS") (tstamp ca6835fc-ea2f-480a-96b1-d7c4c4fad0d1)
+  (gr_text "ESP32-C3" (at 189.33 112.33 90) (layer "F.SilkS") (tstamp ca6835fc-ea2f-480a-96b1-d7c4c4fad0d1)
     (effects (font (size 1 1) (thickness 0.2)))
   )
   (gr_text "BOOT\n" (at 152.77 109.14 90) (layer "F.SilkS") (tstamp ce9d464d-f264-4c28-9395-7fa1ff7bf83e)
