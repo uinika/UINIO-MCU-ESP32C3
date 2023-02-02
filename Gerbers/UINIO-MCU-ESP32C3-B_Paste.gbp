@@ -1,12 +1,12 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.9)*%
-%TF.CreationDate,2022-12-16T14:22:34+08:00*%
-%TF.ProjectId,UINIO-MCU-ESP32C3,55494e49-4f2d-44d4-9355-2d4553503332,Version 1.0.0*%
+%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.11)*%
+%TF.CreationDate,2023-02-02T18:31:34+08:00*%
+%TF.ProjectId,UINIO-MCU-ESP32C3,55494e49-4f2d-44d4-9355-2d4553503332,Version 3.0.0*%
 %TF.SameCoordinates,PX735b400PY5c274f0*%
 %TF.FileFunction,Paste,Bot*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (6.0.9)) date 2022-12-16 14:22:34*
+G04 Created by KiCad (PCBNEW (6.0.11)) date 2023-02-02 18:31:34*
 %MOMM*%
 %LPD*%
 G01*
@@ -45,7 +45,7 @@ X26708500Y-9855000D03*
 %TD*%
 D11*
 %TO.C,C1*%
-X25260000Y-7060000D03*
-X25260000Y-6100000D03*
+X25230000Y-6590000D03*
+X25230000Y-5630000D03*
 %TD*%
 M02*
