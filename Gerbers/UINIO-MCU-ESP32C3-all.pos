@@ -1,9 +1,9 @@
-### Module positions - created on Fri Feb  3 11:00:45 2023 ###
+### Module positions - created on Fri Feb  3 11:07:39 2023 ###
 ### Printed by Pcbnew version (6.0.11)
 ## Unit = mm, Angle = deg.
 ## Side : All
 # Ref     Val               Package                                 PosX       PosY       Rot  Side
-C1        1uF               C_0402_1005Metric                   -25.2300    -6.1100   90.0000  bottom
+C1        1uF               C_0402_1005Metric                   -25.2200    -6.3250   90.0000  bottom
 U2        W25Q128JVSSIQ     SOIC-8_L5.3-W5.3-P1.27-LS8.0-BL     -28.6135    -6.3250    0.0000  bottom
 C2        1uF               C_0402_1005Metric                     8.7800   -13.4800   90.0000  top
 C3        1uF               C_0402_1005Metric                    13.8500   -13.4800   90.0000  top
