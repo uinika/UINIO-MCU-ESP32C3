@@ -1,4 +1,4 @@
-### Module positions - created on Fri Feb  3 19:37:55 2023 ###
+### Module positions - created on Sun Feb 12 14:57:50 2023 ###
 ### Printed by Pcbnew version (6.0.11)
 ## Unit = mm, Angle = deg.
 ## Side : All
@@ -7,12 +7,12 @@ C1        1uF               C_0402_1005Metric                   -25.2200    -6.3
 U2        W25Q128JVSSIQ     SOIC-8_L5.3-W5.3-P1.27-LS8.0-BL     -28.6135    -6.3250    0.0000  bottom
 C2        1uF               C_0402_1005Metric                     8.7800   -13.4800   90.0000  top
 C3        1uF               C_0402_1005Metric                    13.8500   -13.4800   90.0000  top
-C4        10uF              C_0402_1005Metric                    44.6600    -1.8300   90.0000  top
-C5        1uF               C_0402_1005Metric                    45.5800    -1.8300   90.0000  top
+C4        10uF              C_0402_1005Metric                    44.5100    -1.6100   90.0000  top
+C5        1uF               C_0402_1005Metric                    45.5900    -1.6100   90.0000  top
 C6        0uF               C_0402_1005Metric                    49.7000    -2.1500  -45.0000  top
-C7        0.1uF             C_0402_1005Metric                    46.5000    -1.8300   90.0000  top
+C7        0.1uF             C_0402_1005Metric                    46.6600    -1.6100   90.0000  top
 C8        0uF               C_0402_1005Metric                    47.7342    -4.1158  -45.0000  top
-C9        0.1uF             C_0402_1005Metric                    43.7400    -1.8300   90.0000  top
+C9        0.1uF             C_0402_1005Metric                    43.4300    -1.6100   90.0000  top
 C10       1uF               C_0402_1005Metric                    48.2000    -6.1800    0.0000  top
 C11       0.1uF             C_0402_1005Metric                    13.6300    -9.8000   90.0000  top
 C12       10nF              C_0402_1005Metric                    48.2000    -7.1000    0.0000  top
