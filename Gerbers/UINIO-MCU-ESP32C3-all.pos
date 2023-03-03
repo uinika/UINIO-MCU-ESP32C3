@@ -1,18 +1,20 @@
-### Module positions - created on Sun Feb 12 14:57:50 2023 ###
-### Printed by Pcbnew version (6.0.11)
+### Footprint positions - created on Fri Mar  3 19:02:52 2023 ###
+### Printed by KiCad version (7.0.0)
 ## Unit = mm, Angle = deg.
 ## Side : All
 # Ref     Val               Package                                 PosX       PosY       Rot  Side
-C1        1uF               C_0402_1005Metric                   -25.2200    -6.3250   90.0000  bottom
-U2        W25Q128JVSSIQ     SOIC-8_L5.3-W5.3-P1.27-LS8.0-BL     -28.6135    -6.3250    0.0000  bottom
+C1        1uF               C_0402_1005Metric                    23.4000    -6.3200   90.0000  bottom
+J1        Conn_01x15_Pin    PinHeader_1x15_P2.54mm_Vertical      52.7800     2.4700   90.0000  bottom
+J3        Conn_01x15_Pin    PinHeader_1x15_P2.54mm_Vertical      52.7800   -15.0900   90.0000  bottom
+U2        W25Q128JVSSIQ     SOIC-8_L5.3-W5.3-P1.27-LS8.0-BL      27.0500    -6.3200    0.0000  bottom
 C2        1uF               C_0402_1005Metric                     8.7800   -13.4800   90.0000  top
 C3        1uF               C_0402_1005Metric                    13.8500   -13.4800   90.0000  top
-C4        10uF              C_0402_1005Metric                    44.5100    -1.6100   90.0000  top
-C5        1uF               C_0402_1005Metric                    45.5900    -1.6100   90.0000  top
+C4        10uF              C_0402_1005Metric                    44.5100    -1.3800   90.0000  top
+C5        1uF               C_0402_1005Metric                    45.5900    -1.3800   90.0000  top
 C6        0uF               C_0402_1005Metric                    49.7000    -2.1500  -45.0000  top
-C7        0.1uF             C_0402_1005Metric                    46.6600    -1.6100   90.0000  top
+C7        0.1uF             C_0402_1005Metric                    46.6600    -1.3800   90.0000  top
 C8        0uF               C_0402_1005Metric                    47.7342    -4.1158  -45.0000  top
-C9        0.1uF             C_0402_1005Metric                    43.4300    -1.6100   90.0000  top
+C9        0.1uF             C_0402_1005Metric                    43.4400    -1.3800   90.0000  top
 C10       1uF               C_0402_1005Metric                    48.2000    -6.1800    0.0000  top
 C11       0.1uF             C_0402_1005Metric                    13.6300    -9.8000   90.0000  top
 C12       10nF              C_0402_1005Metric                    48.2000    -7.1000    0.0000  top
@@ -29,9 +31,7 @@ HOLE2     Hole-1mm          Hole-1mm                             14.6600     2.4
 HOLE3     Hole-1mm          Hole-1mm                             55.1400     2.4200    0.0000  top
 HOLE4     Hole-1mm          Hole-1mm                             55.1400   -15.0700    0.0000  top
 HOLE5     Hole-1mm          Hole-1mm                              1.9100   -14.2100    0.0000  top
-J1        Conn_01x15_Male   PinHeader_1x15_P2.54mm_Vertical      52.7800     2.4700  -90.0000  top
-J2        外接串行下载接口  PinHeader_1x04_P2.54mm_Vertical      12.1500     2.4800  -90.0000  top
-J3        Conn_01x15_Male   PinHeader_1x15_P2.54mm_Vertical      52.7800   -15.0900  -90.0000  top
+J2        Conn_01x04_Pin    PinHeader_1x04_P2.54mm_Vertical      12.1500     2.4800  -90.0000  top
 L1        0uH               L_0402_1005Metric                    48.3777    -2.7935  -135.0000  top
 R1        2K                R_0402_1005Metric                     6.6100   -13.0200    0.0000  top
 R2        10K               R_0402_1005Metric                    40.2000    -1.8400    0.0000  top
