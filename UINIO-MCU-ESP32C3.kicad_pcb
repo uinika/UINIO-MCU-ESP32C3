@@ -7,8 +7,8 @@
   (paper "A4")
   (title_block
     (title "UINIO-MCU-ESP32C3")
-    (date "2023-03-03")
-    (rev "Version 3.3.0")
+    (date "2023-03-14")
+    (rev "Version 3.5.0")
     (company "电子技术博客 UinIO.com")
   )
 
