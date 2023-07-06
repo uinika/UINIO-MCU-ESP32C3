@@ -1,6 +1,6 @@
 # UINIO-MCU-ESP32C3 核心板
 
-一款基于 [**上海乐鑫科技**](https://www.espressif.com.cn) **ESP32-C3** 微控制器的评估板电路设计，该微控制器基于 **RISC-V** 架构，主频高达 `160MHz`，并且同时支持 **2.4GHz Wi-Fi** 与 **Bluetooth5** 两种物联网接入方案。
+这是一款基于 [**上海乐鑫科技**](https://www.espressif.com.cn) **ESP32-C3** 微控制器的评估板电路设计，该微控制器基于开源的 **RISC-V** 指令集，主频高达 `160MHz`，并且同时支持 **2.4GHz Wi-Fi** 与 **Bluetooth5** 两种物联网接入方案。
 
 ![](./Images/PCB-3D-1.png)
 
