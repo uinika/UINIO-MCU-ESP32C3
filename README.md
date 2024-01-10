@@ -1,6 +1,6 @@
 # UINIO-MCU-ESP32C3 核心板
 
-[**UINIO-MCU-ESP32C3**](https://gitee.com/uinika/UINIO-MCU-ESP32C3) 是一款采用 [上海乐鑫科技](https://www.espressif.com.cn) **ESP32-C3** 微控制器的核心板电路设计，该微控制器基于开源的 **RISC-V** 指令集，主频高达 `160MHz`，并且同时具备有 **2.4GHz Wi-Fi** 与 **Bluetooth5** 两种无线接入能力。
+[**UINIO-MCU-ESP32C3**](https://gitee.com/uinika/UINIO-MCU-ESP32C3) 是一款采用 [上海乐鑫科技](https://www.espressif.com.cn) **ESP32-C3** 微控制器的核心板电路设计，该微控制器基于开源的 **RISC-V** 指令集，主频高达 `160MHz`，并且同时具备有 **2.4GHz Wi-Fi** 与 **Bluetooth5** 两种无线接入能力。片上载有 `384KB` 容量的 **ROM**，以及 `400KB` 容量的 **SRAM** 和 `8KB` 容量的 **RTCSRAM**。
 
 ![](./Images/PCB-3D-1.png)
 
