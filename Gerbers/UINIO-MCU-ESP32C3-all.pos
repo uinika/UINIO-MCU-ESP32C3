@@ -1,38 +1,35 @@
-### Footprint positions - created on Wed Jan 10 11:07:22 2024 ###
-### Printed by KiCad version 7.0.9
+### Footprint positions - created on Tue Mar  5 15:51:20 2024 ###
+### Printed by KiCad version 7.0.11
 ## Unit = mm, Angle = deg.
 ## Side : All
 # Ref     Val               Package                                 PosX       PosY       Rot  Side
 C1        1uF               C_0402_1005Metric                    23.3500    -7.1100   90.0000  bottom
 J1        Conn_01x15_Pin    PinHeader_1x15_P2.54mm_Vertical      52.7300     1.6800   90.0000  bottom
-J3        Conn_01x15_Pin    PinHeader_1x15_P2.54mm_Vertical      52.7300   -15.8800   90.0000  bottom
+J3        Conn_01x15_Pin    PinHeader_1x15_P2.54mm_Vertical      52.7200   -15.9500   90.0000  bottom
 U2        W25Q128JVSSIQ     SOIC-8_L5.3-W5.3-P1.27-LS8.0-BL      27.0000    -7.1100    0.0000  bottom
 C2        1uF               C_0402_1005Metric                     8.7300   -14.2700   90.0000  top
 C3        1uF               C_0402_1005Metric                    13.8000   -14.2700   90.0000  top
-C4        10uF              C_0402_1005Metric                    44.4600    -2.1700   90.0000  top
-C5        1uF               C_0402_1005Metric                    45.5400    -2.1700   90.0000  top
-C6        0uF               C_0402_1005Metric                    49.6500    -2.9400  -45.0000  top
-C7        0.1uF             C_0402_1005Metric                    46.6100    -2.1700   90.0000  top
-C8        0uF               C_0402_1005Metric                    47.6842    -4.9058  -45.0000  top
-C9        0.1uF             C_0402_1005Metric                    43.3900    -2.1700   90.0000  top
+C4        10uF              C_0402_1005Metric                    44.8000    -2.6542   90.0000  top
+C5        1uF               C_0402_1005Metric                    45.8800    -2.6542   90.0000  top
+C7        0.1uF             C_0402_1005Metric                    46.9500    -2.6542   90.0000  top
+C9        0.1uF             C_0402_1005Metric                    43.7300    -2.6542   90.0000  top
 C10       1uF               C_0402_1005Metric                    48.1500    -6.9700    0.0000  top
 C11       0.1uF             C_0402_1005Metric                    13.5800   -10.5900   90.0000  top
 C12       10nF              C_0402_1005Metric                    48.1500    -7.8900    0.0000  top
 C13       0.1uF             C_0402_1005Metric                    13.5700    -3.6000  -90.0000  top
 C14       0.1uF             C_0402_1005Metric                    35.4200    -2.8000    0.0000  top
-C15       15pF              C_0402_1005Metric                    51.1900    -9.5200   90.0000  top
+C15       15pF              C_0402_1005Metric                    51.1900    -9.6900   90.0000  top
 C16       1uF               C_0402_1005Metric                    15.0700    -3.6100   90.0000  top
-C17       15pF              C_0402_1005Metric                    51.1900   -11.6100  -90.0000  top
+C17       15pF              C_0402_1005Metric                    51.1900   -11.7800  -90.0000  top
 C18       0.1uF             C_0402_1005Metric                    35.4400    -7.4000  180.0000  top
 C19       1uF               C_0402_1005Metric                    35.4400    -8.4800  180.0000  top
 D1        LED_Red           LED_0603_1608Metric                   6.0100   -15.3700    0.0000  top
 HOLE1     Hole-1mm          Hole-1mm                              1.8600     0.8000    0.0000  top
 HOLE2     Hole-1mm          Hole-1mm                             14.6100     1.6800    0.0000  top
-HOLE3     Hole-1mm          Hole-1mm                             55.0900     1.6300    0.0000  top
-HOLE4     Hole-1mm          Hole-1mm                             55.0900   -15.8600    0.0000  top
+HOLE3     Hole-1mm          Hole-1mm                             55.0900     1.6800    0.0000  top
+HOLE4     Hole-1mm          Hole-1mm                             55.0900   -15.9500    0.0000  top
 HOLE5     Hole-1mm          Hole-1mm                              1.8600   -15.0000    0.0000  top
 J2        Conn_01x04_Pin    PinHeader_1x04_P2.54mm_Vertical      12.0900     1.6800  -90.0000  top
-L1        0uH               L_0402_1005Metric                    48.3277    -3.5835  -135.0000  top
 R1        2K                R_0402_1005Metric                     6.5600   -13.8100    0.0000  top
 R2        10K               R_0402_1005Metric                    40.1500    -2.6300    0.0000  top
 R3        5.1K              R_0402_1005Metric                    18.6600   -10.9000    0.0000  top
