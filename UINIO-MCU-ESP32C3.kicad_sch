@@ -6,8 +6,8 @@
 
   (title_block
     (title "UINIO-MCU-ESP32C3")
-    (date "2024-03-05")
-    (rev "Version 3.6.0")
+    (date "2024-03-30")
+    (rev "Version 3.6.2")
     (company "UinIO.com 电子技术实验室")
   )
 
