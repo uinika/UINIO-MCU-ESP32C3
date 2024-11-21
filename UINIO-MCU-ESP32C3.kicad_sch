@@ -5122,6 +5122,12 @@
 		(uuid "90414f58-0ad4-48bb-8326-a35c4278df0b")
 	)
 	(junction
+		(at 203.2 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "91b9f40d-b05c-4691-85aa-032c54b906dd")
+	)
+	(junction
 		(at 323.85 46.99)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5192,12 +5198,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d88c9b50-aca9-4ef6-aa48-2cb33be0887d")
-	)
-	(junction
-		(at 204.47 50.8)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "dfd865d2-d403-424d-96cb-71229f88deae")
 	)
 	(junction
 		(at 74.93 224.79)
@@ -5629,7 +5629,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 46.99) (xy 204.47 50.8)
+			(xy 203.2 46.99) (xy 203.2 50.8)
 		)
 		(stroke
 			(width 0)
@@ -5829,7 +5829,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 39.37) (xy 212.09 39.37)
+			(xy 203.2 39.37) (xy 212.09 39.37)
 		)
 		(stroke
 			(width 0)
@@ -7169,7 +7169,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 50.8) (xy 204.47 63.5)
+			(xy 203.2 50.8) (xy 203.2 63.5)
 		)
 		(stroke
 			(width 0)
@@ -7236,6 +7236,16 @@
 			(type default)
 		)
 		(uuid "b7fa796d-ebf8-48d9-8571-f2060dc61ff1")
+	)
+	(wire
+		(pts
+			(xy 203.2 50.8) (xy 208.28 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b83bc250-ce32-411f-949b-5c717748ec78")
 	)
 	(wire
 		(pts
@@ -7639,7 +7649,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 63.5) (xy 210.82 63.5)
+			(xy 203.2 63.5) (xy 210.82 63.5)
 		)
 		(stroke
 			(width 0)
@@ -7986,16 +7996,6 @@
 			(type default)
 		)
 		(uuid "f9ef68ba-97ad-48ce-944c-41c9347181e6")
-	)
-	(wire
-		(pts
-			(xy 204.47 50.8) (xy 208.28 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fb063516-3b7b-4096-9ad1-d543f99c27fa")
 	)
 	(wire
 		(pts
@@ -9367,7 +9367,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 180.34 76.2 90)
+			(at 180.594 76.454 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10248,7 +10248,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 204.47 43.18 0)
+		(at 203.2 43.18 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10256,7 +10256,7 @@
 		(dnp no)
 		(uuid "352cb84a-7353-4fd9-a599-2b75da497680")
 		(property "Reference" "C15"
-			(at 199.39 40.64 0)
+			(at 198.12 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10265,7 +10265,7 @@
 			)
 		)
 		(property "Value" "15pF"
-			(at 199.39 45.72 0)
+			(at 198.12 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10274,7 +10274,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 205.4352 46.99 0)
+			(at 204.1652 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10283,7 +10283,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 204.47 43.18 0)
+			(at 203.2 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10292,7 +10292,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 204.47 43.18 0)
+			(at 203.2 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
