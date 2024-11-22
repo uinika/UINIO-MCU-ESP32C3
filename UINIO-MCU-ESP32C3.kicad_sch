@@ -6,7 +6,7 @@
 	(paper "A3")
 	(title_block
 		(title "UINIO-MCU-ESP32C3")
-		(date "2024-09-04")
+		(date "2024-11-23")
 		(rev "Version 5.0.0")
 		(company "UinIO.com 电子技术实验室")
 	)
